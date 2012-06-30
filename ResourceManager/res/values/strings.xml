@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">资源管理器</string>
+    
+    <string name="is_root">已经是根目录.</string>
+    <string name="is_file">文件没有子目录.</string>
+</resources>
